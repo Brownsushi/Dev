@@ -1,2 +1,2 @@
 # Dev
-This repo is created for initila project practice
+This repo is created for initial project practice
